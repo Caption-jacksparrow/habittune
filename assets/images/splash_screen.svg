@@ -1,0 +1,8 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#673AB7"/>
+  <circle cx="256" cy="256" r="120" fill="white" fill-opacity="0.1"/>
+  <path d="M256 136C186.353 136 130 192.353 130 262C130 331.647 186.353 388 256 388C325.647 388 382 331.647 382 262" stroke="white" stroke-width="16" stroke-linecap="round"/>
+  <path d="M382 262C382 192.353 325.647 136 256 136" stroke="white" stroke-width="16" stroke-linecap="round"/>
+  <path d="M215 262L256 303L335 224" stroke="white" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="450" font-family="Arial" font-size="48" font-weight="bold" fill="white" text-anchor="middle">HabitTune</text>
+</svg>
